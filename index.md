@@ -58,7 +58,7 @@ Criação de mini-jogos, que é um hobby recente que pretendo estimular em difer
 - **[ ] Criação de jogo narrativo baseado em LLM**
   - Jogo narrativo, cujo "motor" seja uma LLM pré-treinada
 
-- **[ ] Criação de um jogo "neighborvania", com personagens dinâmicos
+- **[ ] Criação de um jogo "neighborvania", com personagens dinâmicos**
   - Jogo estilo "neighborvania" (Stardew Valley), mas os personagens são todos baseados em LLMs, cada um tendo uma personalidade diferente
   - Ações e missões dentro do jogo afetam as personalidades e respostas de cada personagem
 
