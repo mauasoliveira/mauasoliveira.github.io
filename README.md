@@ -1,5 +1,4 @@
 ---
-layout: home
 title: "Mauricio Oliveira"
 ---
 
@@ -13,7 +12,7 @@ Olá! Meu nome é Mauricio e sou engenheiro / desenvolvedor de dados.
 
 Tenho ampla experiência com ferramentas de marketing, datalakes e lakehouses. Atualmente estudo machine learning e estou começando a produzir conteúdos relacionados aos estudos e uma possível educação na área de dados.
 
-Contato: [https://www.linkedin.com/in/mauasoliveira/](LinkedIn)
+Contato: [LinkedIn](https://www.linkedin.com/in/mauasoliveira/)
 
 ## Experiência
 
