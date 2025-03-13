@@ -1,9 +1,9 @@
-# Original theme https://github.com/pages-themes/hacker?tab=readme-ov-file#usage
-# theme
-
+title: "Mauricio Oliveira"
 theme: jekyll-theme-hacker
 
+# Original theme https://github.com/pages-themes/hacker?tab=readme-ov-file#usage
 # remote_theme: pages-themes/hacker@v0.2.0
+# theme
 # plugins:
 # - jekyll-remote-theme # add this line to the plugins list if you already have one
 
