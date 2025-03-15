@@ -7,7 +7,7 @@
 
 ## Apresentação  
 
-Olá! Meu nome é Mauricio e sou engenheiro / desenvolvedor de dados. 
+Olá! Meu nome é Mauricio, sou ogã de canto na Umbanda, tutor de uma vira-lata, e atuo hoje como engenheiro / desenvolvedor de dados.
 
 Tenho ampla experiência com ferramentas de marketing, datalakes e lakehouses. Atualmente estudo machine learning e estou começando a produzir conteúdos relacionados aos estudos e uma possível educação na área de dados.
 

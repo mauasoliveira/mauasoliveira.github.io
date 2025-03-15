@@ -3,6 +3,11 @@
 
 # Planos de Projetos
 
+## Projetos
+
+- **[ ] Culture Finder**
+  - Busca de bandas covers baseado nos artistas que a pessoa gosta e sua localização
+
 ## Arquitetura e Engenharia de dados
 
 Todos estes projetos têm a ideia de mostrar meu trabalho na área de dados, com o intuito de gerar conteúdo voltado à educação na área.
