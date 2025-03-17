@@ -1,2 +1,5 @@
-FROM rails:onbuild
+FROM jekyll/jekyll
+
+CMD jekyll serve
+
 
