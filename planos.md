@@ -3,10 +3,13 @@
 
 # Planos de Projetos
 
+
 ## Projetos
 
 - **[ ] Culture Finder**
   - Busca de bandas covers baseado nos artistas que a pessoa gosta e sua localização
+- **[ ] Open Sources**
+  - Contribuições com projetos Open sources
 
 ## Arquitetura e Engenharia de dados
 
